@@ -1,5 +1,8 @@
 <div align="center">
   <br />
+    <img src="https://www.hiringcycle.ai/assets/posts/ai-vs-online.webp" alt="Prepwise AI Interview Platform" width="100%" />
+  <br /><br />
+
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/-Vapi_AI-white?style=for-the-badge&color=5dfeca" alt="Vapi AI" />
@@ -11,12 +14,12 @@
   <h2 align="center">⚡ Prepwise – AI-Powered Job Interview Preparation Platform ⚡</h2>
 
   <p align="center">
-  A next-generation platform that uses <b>Voice AI</b> and <b>Generative AI</b> to simulate real-world job interviews, assess candidates, and provide personalized AI feedback.
+    A next-generation platform that uses <b>Voice AI</b> and <b>Generative AI</b> to simulate real-world job interviews, assess candidates, and provide personalized AI feedback.
   </p>
 
   <p align="center">
-    <b>Built by John Moshe Nayak Bhukya</b>  
-    <br />Full Stack Developer | AI & Web Enthusiast
+    <b>Built by John Moshe Nayak Bhukya</b><br />
+    Full Stack Developer | AI & Web Enthusiast
   </p>
 
   <hr />
@@ -37,36 +40,35 @@
 
 **Prepwise** is a cutting-edge **AI-powered interview preparation platform** developed to simulate **real-time job interviews** using **Vapi Voice AI Agents** and **Google Gemini AI**.  
 
-The platform analyzes user responses **in real-time** and generates **intelligent feedback** on communication, technical understanding, and confidence.
+The platform analyzes user responses **in real time** and generates **intelligent, structured feedback** on communication, technical knowledge, and overall confidence.  
 
-This project reflects a fusion of **AI workflow automation**, **full-stack engineering**, and **modern web design** — built from the ground up for immersive, hands-on learning and professional portfolio presentation.
+This project is a demonstration of **AI workflow design, full-stack development, and modern web aesthetics** — ideal for job seekers, learners, and developers looking to understand AI-integrated web apps.
 
 ---
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- ⚡ **Next.js 15** – Frontend & backend logic  
-- 🔥 **Firebase** – Authentication & data storage  
-- 🎨 **Tailwind CSS + shadcn/ui** – Modern responsive design  
-- 🧠 **Google Gemini API** – Generative feedback & AI processing  
-- 🗣️ **Vapi AI** – Real-time voice agent for mock interviews  
-- ✅ **Zod** – Schema validation for form and data integrity  
+- ⚡ **Next.js 15** – Frontend + backend integration  
+- 🔥 **Firebase** – Authentication & Firestore database  
+- 🎨 **Tailwind CSS + shadcn/ui** – Responsive and sleek UI design  
+- 🧠 **Google Gemini API** – Smart question generation and AI analysis  
+- 🗣️ **Vapi AI** – Real-time Voice AI agent for interactive interviews  
+- ✅ **Zod** – Schema validation for structured and safe data handling  
 
 ---
 
 ## <a name="features">🔋 Features</a>
 
-🚀 **AI-Powered Interview Simulation** – Conduct full-length mock interviews using Vapi’s Voice AI.  
-🧠 **Smart Question Generation** – Gemini dynamically creates interview questions based on job role, level, and tech stack.  
-🎯 **Real-Time AI Feedback** – Instant evaluation with category-wise breakdown and suggestions.  
-💬 **Voice Interaction** – Human-like AI conversation to test soft skills and communication.  
-📊 **Dashboard** – Track previous interviews, scores, and improvement history.  
-💻 **Authentication** – Secure Firebase login and session handling.  
-📱 **Fully Responsive** – Designed with a modern, minimal UI/UX adaptable to all screens.  
-🌙 **Dark Mode Support** – Elegant dark interface for focus and usability.
+🚀 **AI-Powered Interview Simulation** – Practice live interviews using Voice AI.  
+🧠 **Dynamic Question Generation** – Gemini crafts customized questions based on your role and skill set.  
+🎯 **Real-Time AI Feedback** – Get detailed evaluations on each interview session.  
+💬 **Conversational Interface** – Talk naturally with an AI voice interviewer.  
+📊 **Dashboard Overview** – Track all your previous interviews and scores.  
+🔒 **Secure Authentication** – Firebase ensures robust login and session management.  
+🌙 **Dark Mode Ready** – Clean, accessible UI optimized for focus and usability.  
+📱 **Fully Responsive** – Optimized for all screen sizes and devices.
 
-### 🧩 Custom Feedback Categories
-The AI evaluator scores across:
+### 🧩 Feedback Evaluation Metrics:
 - **Communication Skills**  
 - **Technical Knowledge**  
 - **Problem-Solving Ability**  
@@ -77,7 +79,7 @@ The AI evaluator scores across:
 ## <a name="quick-start">🤸 Quick Start</a>
 
 ### **Prerequisites**
-Ensure the following are installed:
+Install the following on your system:
 - [Git](https://git-scm.com/)  
 - [Node.js](https://nodejs.org/)  
 - [npm](https://www.npmjs.com/)  
