@@ -1,134 +1,88 @@
 <div align="center">
-<br /> <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner"> <br /> <div> <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" /> <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" /> <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" /> </div> <h3 align="center">Prepwise: An AI-powered job interview preparation platform</h3> <div align="center"> Developed with advanced AI voice and generative technologies to simulate real job interviews and provide instant AI-driven feedback. </div> </div>
-📋 Table of Contents
+  <br />
+  <div>
+    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-Vapi_AI-white?style=for-the-badge&color=5dfeca" alt="Vapi AI" />
+    <img src="https://img.shields.io/badge/-Google_Gemini-blue?style=for-the-badge&logo=google" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=white&color=DD2C00" alt="Firebase" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </div>
 
-🤖 Introduction
+  <h2 align="center">⚡ Prepwise – AI-Powered Job Interview Preparation Platform ⚡</h2>
 
-⚙️ Tech Stack
+  <p align="center">
+  A next-generation platform that uses <b>Voice AI</b> and <b>Generative AI</b> to simulate real-world job interviews, assess candidates, and provide personalized AI feedback.
+  </p>
 
-🔋 Features
+  <p align="center">
+    <b>Built by John Moshe Nayak Bhukya</b>  
+    <br />Full Stack Developer | AI & Web Enthusiast
+  </p>
 
-🤸 Quick Start
+  <hr />
+</div>
 
-🕸️ Snippets
+## 📋 Table of Contents
+1. [🤖 Introduction](#introduction)
+2. [⚙️ Tech Stack](#tech-stack)
+3. [🔋 Features](#features)
+4. [🤸 Quick Start](#quick-start)
+5. [🕸️ Snippets](#snippets)
+6. [🔗 Assets](#assets)
+7. [🚀 More](#more)
 
-🔗 Assets
+---
 
-🚀 More
+## <a name="introduction">🤖 Introduction</a>
 
-<a name="introduction">🤖 Introduction</a>
+**Prepwise** is a cutting-edge **AI-powered interview preparation platform** developed to simulate **real-time job interviews** using **Vapi Voice AI Agents** and **Google Gemini AI**.  
 
-Prepwise is a full-stack AI-driven platform designed to help users prepare for job interviews through interactive mock interviews using Vapi AI voice agents.
-It analyzes user responses in real time and provides personalized feedback using Google Gemini AI.
+The platform analyzes user responses **in real-time** and generates **intelligent feedback** on communication, technical understanding, and confidence.
 
-Built with Next.js for frontend and backend logic, Firebase for authentication and data storage, and styled using Tailwind CSS, this project combines sleek UI/UX with robust AI capabilities.
+This project reflects a fusion of **AI workflow automation**, **full-stack engineering**, and **modern web design** — built from the ground up for immersive, hands-on learning and professional portfolio presentation.
 
-<a name="tech-stack">⚙️ Tech Stack</a>
+---
 
-Next.js 15
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Firebase Authentication & Firestore
+- ⚡ **Next.js 15** – Frontend & backend logic  
+- 🔥 **Firebase** – Authentication & data storage  
+- 🎨 **Tailwind CSS + shadcn/ui** – Modern responsive design  
+- 🧠 **Google Gemini API** – Generative feedback & AI processing  
+- 🗣️ **Vapi AI** – Real-time voice agent for mock interviews  
+- ✅ **Zod** – Schema validation for form and data integrity  
 
-Tailwind CSS
+---
 
-Vapi AI (Voice AI Agent)
+## <a name="features">🔋 Features</a>
 
-Google Gemini API
+🚀 **AI-Powered Interview Simulation** – Conduct full-length mock interviews using Vapi’s Voice AI.  
+🧠 **Smart Question Generation** – Gemini dynamically creates interview questions based on job role, level, and tech stack.  
+🎯 **Real-Time AI Feedback** – Instant evaluation with category-wise breakdown and suggestions.  
+💬 **Voice Interaction** – Human-like AI conversation to test soft skills and communication.  
+📊 **Dashboard** – Track previous interviews, scores, and improvement history.  
+💻 **Authentication** – Secure Firebase login and session handling.  
+📱 **Fully Responsive** – Designed with a modern, minimal UI/UX adaptable to all screens.  
+🌙 **Dark Mode Support** – Elegant dark interface for focus and usability.
 
-shadcn/ui Components
+### 🧩 Custom Feedback Categories
+The AI evaluator scores across:
+- **Communication Skills**  
+- **Technical Knowledge**  
+- **Problem-Solving Ability**  
+- **Confidence & Role Fit**
 
-Zod Validation
+---
 
-<a name="features">🔋 Features</a>
+## <a name="quick-start">🤸 Quick Start</a>
 
-👉 Authentication — Secure login and signup using Firebase.
-
-👉 AI-Powered Interview Creation — Automatically generate interview questions using Gemini based on your selected role, experience level, and tech stack.
-
-👉 Voice AI Interviews — Simulated real-time interviews powered by Vapi Voice Agents.
-
-👉 Instant AI Feedback — After each interview, users receive structured AI feedback with detailed evaluation metrics and improvement suggestions.
-
-👉 Dashboard — Track and manage all previous interviews.
-
-👉 Modern, Responsive UI — Beautiful, intuitive design with dark mode and mobile responsiveness.
-
-👉 Custom Feedback Categories — The system evaluates based on:
-
-Communication Skills
-
-Technical Knowledge
-
-Problem-Solving
-
-Confidence & Role Fit
-
-<a name="quick-start">🤸 Quick Start</a>
-Prerequisites
-
+### **Prerequisites**
 Ensure the following are installed:
+- [Git](https://git-scm.com/)  
+- [Node.js](https://nodejs.org/)  
+- [npm](https://www.npmjs.com/)  
 
-Git
-
-Node.js
-
-npm
-
-Clone the Repository
-git clone https://github.com/your-username/prepwise.git
+### **Clone Repository**
+```bash
+git clone https://github.com/johnmoshenayakbhukya/prepwise.git
 cd prepwise
-
-Install Dependencies
-npm install
-
-Setup Environment Variables
-
-Create .env.local in the project root:
-
-NEXT_PUBLIC_VAPI_WEB_TOKEN=
-NEXT_PUBLIC_VAPI_WORKFLOW_ID=
-
-GOOGLE_GENERATIVE_AI_API_KEY=
-
-NEXT_PUBLIC_BASE_URL=
-
-NEXT_PUBLIC_FIREBASE_API_KEY=
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
-NEXT_PUBLIC_FIREBASE_APP_ID=
-
-FIREBASE_PROJECT_ID=
-FIREBASE_CLIENT_EMAIL=
-FIREBASE_PRIVATE_KEY=
-
-
-Fill these with your credentials from Firebase, Vapi, and Google AI Studio.
-
-Run the Project
-npm run dev
-
-
-Now open http://localhost:3000
- to explore the project.
-
-<a name="snippets">🕸️ Snippets</a>
-
-You can include all the provided code snippets (e.g., globals.css, lib/utils.ts, feedback/page.tsx, etc.) from your project — they remain the same as in your implementation.
-
-<a name="assets">🔗 Assets</a>
-
-All UI assets and icons used in this project can be found in the /public directory or replaced with your custom designs.
-
-<a name="more">🚀 More</a>
-
-This project demonstrates the integration of Voice AI, Generative AI, and Full Stack Development within a single platform.
-It is part of my personal portfolio showcasing advanced Next.js development, API integration, and AI workflow design.
-
-If you’d like to connect or collaborate on AI-driven web applications, feel free to reach out.
-
-🧑‍💻 Developed by
-
-John Moshe
-Full Stack Developer | AI & Web Enthusiast
